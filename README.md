@@ -2,7 +2,7 @@
 
 
 this App created by Spring Boot,Spring Security,MySQL,React
-project designed with OOP&AOP
+project designed with MVC architecture
 
 client story:
 client can connect to his Account only with Cookies(Token) , and make some nutrition menus and save one of them in his Account,
@@ -27,8 +27,8 @@ but client can only see nutrition menus that suit him(higher(Mass) or lower(Cut)
 <ul>
 	<li>REST API</li>
 	<li>Basic Auth</li>
-    <li>Posts</li>
-    <li>AOP</li>
+    	<li>Posts</li>
+    	<li>AOP</li>
 	<li>Cookies</li>
 </ul>
 <h1>Technology Stacks</h1>
