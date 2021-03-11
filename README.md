@@ -40,7 +40,7 @@ but client can only see nutrition menus that suit him(higher(Mass) or lower(Cut)
 	<li>Basic Auth</li>
     	<li>Posts</li>
     	<li>AOP</li>
-	<li>Cookies</li>
+	<li>Created Nutrition Menu</li>
 </ul>
 <h1>Technology Stacks</h1>
 <h2>Backend</h2>
